@@ -15,8 +15,8 @@ const client = new Client({
 });
 
 // กำหนด ID ของคุณ
-const GUILD_ID = '1286146288584360047';
-const CHANNEL_ID = '1418809861713428530';
+const GUILD_ID = '1418809861713428530';
+const CHANNEL_ID = '1286146288584360047';
 
 // 1. สร้างคำสั่ง (Slash Commands)
 const commands = [
